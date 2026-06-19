@@ -8,9 +8,9 @@ Bs Statistics Graduate + CCA Certified Essentials Course.
 - Ms word basic 
 - Power Point basic to intermediate
 # Skills-learning progress
-SQL: starting basic
-Power Bi: starting basic
-python: starting basic
+- SQL: starting basic
+- Power Bi: starting basic
+- python: starting basic
 # Blog-My learning Diary
 19 june 2026- Day1
 Aaj GitHub account banaya ha aur pehli repository banai.
